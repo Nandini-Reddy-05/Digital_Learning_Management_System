@@ -1,0 +1,18 @@
+# Frontend
+frontend/node_modules
+frontend/dist/
+
+# Backend
+backend/target
+
+# Maven
+maven/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+backend/uploads/
