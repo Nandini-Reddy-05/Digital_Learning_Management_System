@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://digital-learning-management-system.onrender.com',
+    baseURL: 'https://digital-learning-management-system.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
