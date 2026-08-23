@@ -49,8 +49,9 @@ Digital Learning Management System (DLMS) is a full-stack web application design
 - Render
 - Netlify
 
-##  📂 Project Structure
+## 📂 Project Structure
 
+```text
 Digital_Learning_Management_System/
 │
 ├── backend/
@@ -64,11 +65,17 @@ Digital_Learning_Management_System/
 │
 ├── screenshots/
 │   ├── login.png
+│   ├── registration.png
 │   ├── admin-dashboard.png
 │   ├── teacher-dashboard.png
-│   └── student-dashboard.png
+│   ├── student-dashboard.png
+│   ├── courses.png
+│   ├── quiz.png
+│   └── progress.png
 │
 └── README.md
+```
+
 ## 📸 Project Screenshots
 
 ## 📝 Registration Page
